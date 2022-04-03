@@ -1,0 +1,45 @@
+body {
+    background: orange
+}
+
+h1 {
+    background: gold;
+    color: black
+}
+
+a {
+    background: gold;
+    color: black
+}
+
+h2 {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    color: black;
+    background: yellow;
+}
+
+
+img {
+    width: 360px;
+}
+
+h3 {
+
+    color: black;
+}
+
+
+li {
+    background: yellow;
+    color: black;
+}
+
+
+h4 {
+
+    color: black;
+}
