@@ -2,23 +2,90 @@ body {
     margin: 0
 }
 
-.whiteblock {
-    height: 600px;
-    background: gray;
+.TXT {
+    height: 70px;
+    background: white;
     display: flex;
-    justify-content: center;
-}
-.txt8{font-family: Arial, serif;
     text-align: center;
-    width: 90%;
-    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt8 {
+    font-family: Arial, serif;
+    text-align: center;
+    margin-top: 20px;
     font-size: 20px;
+
+
+}
+
+.WHITE {
+    height: 600px;
+    background: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.card2 {
+    height: 330px;
+    width: 300px;
+    background: white;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    margin-left: 30px;
+    margin-top: 25px;
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+.fa-airbnb {
+    display: block
+}
+
+.fa-airbnb {
+    font-size: 70px;
+    color: gray;
+    margin-top: 30px;
+}
+
+.txt {
+    color: darkred;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.txt2 {
+    color: gray;
+    margin-top: 18px;
+    justify-content: center;
+    align-items: center;
+}
+
+.learnblock {
+    background: mediumseagreen;
+    width: 100px;
+    height: 50px;
+
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+
+
 }
-.card2 {height: 270px;
-width: 200px;
-background: gold;
-margin-top: 80px;
+
+.txt5 {
+    color: white;
+    margin-top: 15px;
 }
+
