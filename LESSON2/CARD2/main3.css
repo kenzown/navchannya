@@ -1,0 +1,24 @@
+body {
+    margin: 0
+}
+
+.whiteblock {
+    height: 600px;
+    background: gray;
+    display: flex;
+    justify-content: center;
+}
+.txt8{font-family: Arial, serif;
+    text-align: center;
+    width: 90%;
+    margin-top: 30px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.card2 {height: 270px;
+width: 200px;
+background: gold;
+margin-top: 80px;
+}
