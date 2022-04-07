@@ -1,0 +1,38 @@
+body {
+    margin: 0
+}
+
+.target {
+    height: 400px;
+    width: 800px;
+    background: #264d6b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.boxs {
+    width: 200px;
+    height: 150px;
+    background: mediumpurple;
+    margin-left: 25px;
+    border-radius: 10px;
+    position: relative;
+    z-index: 2;
+    margin-top: 400px;
+
+
+}
+
+
+
+.target2 {
+    width: 800px;
+    height: 200px;
+    background: lightgray;
+    z-index: 1;
+    position: absolute;
+
+}
