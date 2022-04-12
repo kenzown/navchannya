@@ -1,0 +1,20 @@
+@media screen and (max-width: 1000px) {
+    .a-block {
+        height: 200px
+    }
+
+    .wrap {
+        flex-direction: column;
+
+    }
+}
+
+.bcd {
+    width: 100%;
+    height: 300px;
+}
+
+.h_block {
+    width: 100%;
+    height: 300px
+}
