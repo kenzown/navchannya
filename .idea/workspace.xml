@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="580c772c-b0ca-414f-b528-4ad937bf1dae" name="Changes" comment="lesson 4 hm">
+      <change afterPath="$PROJECT_DIR$/JS/LESSON1/task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/LESSON1/task1/main2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/LESSON1/task2/js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/LESSON1/task2/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/html/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/navchannya.iml" beforeDir="false" afterPath="$PROJECT_DIR$/html/.idea/navchannya.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/IMG/Bart_Simpson.webp" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/IMG/Bart_Simpson.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/IMG/Homer_Simpson.webp" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/IMG/Homer_Simpson.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/IMG/Lisa_Simpson_official.webp" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/IMG/Lisa_Simpson_official.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/block.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/block.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON1/navchannya.iml" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON1/navchannya.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON2/BLUE BLOCKS/FLEX.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON2/BLUE BLOCKS/FLEX.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON2/BLUE BLOCKS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON2/BLUE BLOCKS/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON2/CARD1/card1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON2/CARD1/card1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON2/CARD1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON2/CARD1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON2/CARD2/card2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON2/CARD2/card2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON2/CARD2/main3.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON2/CARD2/main3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON2/CARD3/card3.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON2/CARD3/card3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON2/CARD3/main4.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON2/CARD3/main4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON3/card1/card1.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON3/card1/card1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON3/card1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON3/card1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON3/card2/card2.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON3/card2/card2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON3/card2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON3/card2/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON4/hm1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON4/hm1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON4/hm1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON4/hm1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON4/hm1/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON4/hm1/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LESSON4/hm1/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/LESSON4/hm1/normalize.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="27L1HSuEe16QNDS7X1ZYL4R3umF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JS/LESSON1/task2" />
+      <recent name="$PROJECT_DIR$/html" />
+      <recent name="$PROJECT_DIR$/LESSON3/card1" />
+      <recent name="$PROJECT_DIR$/LESSON2/BLUE BLOCKS" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="580c772c-b0ca-414f-b528-4ad937bf1dae" name="Changes" comment="" />
+      <created>1649084472030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649084472030</updated>
+      <workItem from="1649084477483" duration="506000" />
+      <workItem from="1649152442676" duration="27255000" />
+      <workItem from="1649338023979" duration="9904000" />
+      <workItem from="1649447536545" duration="553000" />
+      <workItem from="1649448485076" duration="53000" />
+      <workItem from="1649448788066" duration="377000" />
+      <workItem from="1649712721650" duration="1536000" />
+      <workItem from="1649753927923" duration="10098000" />
+      <workItem from="1649938110389" duration="9791000" />
+    </task>
+    <task id="LOCAL-00001" summary="3 таск не дороблений ще">
+      <created>1649174517589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649174517589</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all tasks done">
+      <created>1649194703813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649194703813</updated>
+    </task>
+    <task id="LOCAL-00003" summary="all lesson 3(card 1-2)">
+      <created>1649350642982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649350642982</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson 4 hm">
+      <created>1649797544653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649797544653</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="3 таск не дороблений ще" />
+    <MESSAGE value="all tasks done" />
+    <MESSAGE value="all lesson 3(card 1-2)" />
+    <MESSAGE value="lesson 4 hm" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 hm" />
+  </component>
+</project>
