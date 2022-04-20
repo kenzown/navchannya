@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="580c772c-b0ca-414f-b528-4ad937bf1dae" name="Changes" comment="js hm task 1-2">
+      <change afterPath="$PROJECT_DIR$/JS/LESSON2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/LESSON2/main5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/LESSON1/task1/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/LESSON1/task1/main2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/LESSON1/task1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/LESSON1/task1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS/LESSON1/task2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/LESSON1/task2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +84,8 @@
       <workItem from="1649938110389" duration="9791000" />
       <workItem from="1649966186526" duration="306000" />
       <workItem from="1650282464836" duration="508000" />
+      <workItem from="1650360908535" duration="2707000" />
+      <workItem from="1650453395540" duration="2935000" />
     </task>
     <task id="LOCAL-00001" summary="3 таск не дороблений ще">
       <created>1649174517589</created>

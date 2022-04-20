@@ -59,7 +59,7 @@ let book1 = {
 let book2 = {
     name: "Танець недоумка",
     count: 642,
-    genre: "sci-fi, thiller",
+    genre: "sci-fi, thriller",
     authors: [
         "Іларіон Павлюк",
         "idqmdmwq",
