@@ -96,7 +96,7 @@ let product = [
 document.write(`<div>`)
 for (let i = 0; i < product.length; i++) {
 
-    document.write(`<div class="product"><h3 class="product-title">${product.title}</h3><img src=" " alt ="" class="product-image"></div>`)
+    document.write(`<div class="product-title">${product.title}<h3 class="product-price">${product.price}</h3><img src="${product.image} " alt ="" class="product-image"></div>`)
 }
 
 document.write(`</div`)
