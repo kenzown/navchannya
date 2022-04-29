@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="580c772c-b0ca-414f-b528-4ad937bf1dae" name="Changes" comment="lesson 3 hm last task, чому получається undefined?">
-      <change afterPath="$PROJECT_DIR$/JS/lesson4/indexx.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/lesson4/main.js" afterDir="false" />
+    <list default="true" id="580c772c-b0ca-414f-b528-4ad937bf1dae" name="Changes" comment="lesson 4 hm">
+      <change afterPath="$PROJECT_DIR$/JS/lesson5/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/lesson5/main8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/ LESSON3/main9.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/ LESSON3/main9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,8 @@
       <workItem from="1650453395540" duration="3269000" />
       <workItem from="1650624153482" duration="5165000" />
       <workItem from="1650970788969" duration="7804000" />
-      <workItem from="1651014721264" duration="2550000" />
+      <workItem from="1651014721264" duration="2865000" />
+      <workItem from="1651141286401" duration="11323000" />
     </task>
     <task id="LOCAL-00001" summary="3 таск не дороблений ще">
       <created>1649174517589</created>
@@ -145,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650632100637</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lesson 4 hm">
+      <created>1651078097449</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651078097449</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,9 +174,9 @@
     <MESSAGE value="3 таск не дороблений ще" />
     <MESSAGE value="all tasks done" />
     <MESSAGE value="all lesson 3(card 1-2)" />
-    <MESSAGE value="lesson 4 hm" />
     <MESSAGE value="js hm task 1-2" />
     <MESSAGE value="lesson 3 hm last task, чому получається undefined?" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 3 hm last task, чому получається undefined?" />
+    <MESSAGE value="lesson 4 hm" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 hm" />
   </component>
 </project>
