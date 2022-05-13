@@ -3,38 +3,71 @@
 let midl = (array) => {
     let sum = 0;
     for (const item of array)
-        sum += item / array.length;
+        sum += item;
 
     {
-        return sum
+        return sum / array.length
     }
 }
 console.log(midl([2, 4, 5, 6, 7, 4, 16]));
 // - створити функцію яка приймає будь-яку кількість чисел, повертає найменьше, а виводить найбільше (Math використовувати заборонено);
-// let lowest = (array) => {
-//     let losostnum = 0
-//     for (const item of array)
-//
-//             }
-// console.log(lowest([2, 4, 5, 6, 8]));
+let lowest = (...arg) => {
+    let min = arg[0];
+    let max = arg[0]
+    for (const max1 of arg) {
+
+        if (max1 > min) {
+        }
+        min = max1;
+        {
+        }
+        if (max1 < max)
+            max = max1
+    }
+    console.log(max)
+    return min
+
+
+}
+console.log(lowest(0, 1, 4, 5, 6, 7));
 // - створити функцію яка заповнює масив рандомними числами
 // (цей код генерує рандомні числа в діапазоні від 0 до 100 - Math.round(Math.random()*100)) та виводить його.
-let calk12 = (max) => {
-    return Math.round(Math.random() * 100);
+let calk12 = () => {
+    let arr = [];
+    for (let i = 0; i < 10; i++) {
+        arr.push(Math.round(Math.random() * 100))
+
+    }
+    return arr
 }
 
-console.log(calk12(100));
+console.log(calk12());
 
 
 // - створити функцію яка заповнює масив рандомними числами в діапазоні від 0 до limit. limit - аргумент, який характеризує кінцеве значення діапазону.
-let calk13 = (limit) => {
-    return Math.round(Math.random() * limit)
+let calk40 = (limit) => {
+    let arr = [];
+    for (let i = 0; i < limit; i++) {
+        arr.push(Math.round(Math.random() * 100))
+
+    }
+    return arr
 }
-console.log(calk13(170));
+
+console.log(calk40(14));
 // - Функція приймає масив та робить з нього новий масив в зворотньому порядку. [1,2,3] -> [3, 2, 1].
 let calc22 = (array) => {
-    const reversed = array.reverse()
-    console.log(reversed)
+    let newArr = [];
+    for (let i = array.length - 1; i >= 0; i--) {
+        newArr.push(array[i]);
+
+
+    }
+
+
+    return newArr
+
+
 }
 console.log(calc22([1, 2, 3]));
 //
@@ -146,16 +179,12 @@ let userss = [
     {id: 8, name: 'Artur', age: 42},]
 
 
-let boo = (array) => {
-    let reverse = array.reverse()
-    console.log(reverse)
+let change = (aray) => {
 
-
+    let mos = aray[0];
+    aray[0]=aray[1];
+    aray[1]= mos
+    return aray
 }
-console.log(boo(userss));
-//
-//
-//
-//
-//
-//
+console.log(change(userss));
+
