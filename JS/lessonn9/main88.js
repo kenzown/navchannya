@@ -105,7 +105,7 @@ let simpsons = [
 // Проітерувати його, створиши для кожного елементу масиву <div class='member'>.
 for (const simpson of simpsons) {
     let htmlDivElement = document.createElement('div');
-    htmlDivElement.classList.add = 'member'
+    htmlDivElement.classList.add('member');
     const name = document.createElement('div')
 
     const Surname = document.createElement('div')
