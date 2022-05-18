@@ -219,12 +219,12 @@ for (const items of coursesArray) {
     document.body.appendChild(divElement1)
 
     const listElement = document.createElement('ul');
-    for (const module of items.modules){
-    const lielem = document.createElement('li');
-    lielem.innerText = module
+    for (const module of items.modules) {
+        const lielem = document.createElement('li');
+        lielem.innerText = module
         listElement.appendChild(lielem)
 
     }
-document.body.appendChild(listElement)
+    document.body.appendChild(listElement)
 
 }
